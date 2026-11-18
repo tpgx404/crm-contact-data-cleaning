@@ -1,0 +1,151 @@
+customer_id,first_name,last_name,email,phone,company,city,country,signup_date,status
+C0001,John,Smith,john.smith@example.com,-1070,Acme Inc,New York,United States,15-01-2024,Active
+C0002,Sarah,Johnson,sarah.j@example.com,4155550102,BlueSky Ltd,Los Angeles,United States,01/22/2024,Active
+C0003,Michael,Brown,michael.brown@example.com,+1 415 555 0103,TechNova,Chicago,United States,03-02-2024,Active
+C0004,Emily,Davis,emily.davis@example.com,,GreenLeaf,Seattle,United States,12-02-2024,Inactive
+C0005,David,Wilson,david.wilson@example.com,555-0105,CloudNine,Austin,United States,01-03-2024,Active
+C0006,Jessica,Miller,jessica.miller@example,415-555-0106,NorthStar,Boston,United States,15-03-2024,Active
+C0007,Daniel,Moore,daniel.moore@example.com,-1076,DataWorks,Denver,United States,20-03-2024,Pending
+C0008,Amanda,Taylor,amanda.taylor@example.com,415.555.0108,PixelPoint,Miami,United States,01-04-2024,Active
+C0009,Robert,Anderson,robert.anderson@example.com,4155550109,NextGen,Portland,United States,08-04-2024,Inactive
+C0010,Lisa,Thomas,lisa.thomas@example.com,+1 415 555 0110,Acme Inc,New York,United States,15-04-2024,Active
+C0011,James,Jackson,james.jackson@example.com,415-555-0111,BlueSky Ltd,Los Angeles,United States,22-04-2024,Active
+C0012,Patricia,White,patricia.white@example.com,415-555-0112,TechNova,Chicago,United States,01-05-2024,Unknown
+C0013,Christopher,Harris,christopher.harris@example.com,4155550113,GreenLeaf,Seattle,United States,11-05-2024,Inactive
+C0014,Jennifer,Martin,jennifer.martin@example.com,4155550114,CloudNine,Austin,United States,20-05-2024,Active
+C0015,Matthew,Thompson,matthew.thompson@example.com,415-555-0115,NorthStar,Boston,United States,01-06-2024,Pending
+C0016,Elizabeth,Garcia,elizabeth.garcia@example.com,415-555-0116,DataWorks,Denver,United States,12-06-2024,Active
+C0017,Anthony,Martinez,anthony.martinez@example.com,,PixelPoint,Miami,United States,20-06-2024,Inactive
+C0018,Barbara,Robinson,barbara.robinson@example.com,4155550118,NextGen,Portland,United States,01-07-2024,Active
+C0019,Mark,Clark,mark.clark@example.com,415-555-0119,Acme Inc,New York,United States,15-07-2024,Active
+C0020,Donald,Rodriguez,donald.rodriguez@example.com,415-555-0120,BlueSky Ltd,Los Angeles,United States,25-07-2024,Inactive
+C0021,Steven,Lewis,steven.lewis@example.com,4155550121,TechNova,Chicago,United States,01-08-2024,Active
+C0022,Paul,Lee,paul.lee@example.com,415-555-0122,GreenLeaf,Seattle,United States,15-08-2024,Active
+C0023,Andrew,Walker,andrew.walker@example.com,4155550123,CloudNine,Austin,United States,22-08-2024,Active
+C0024,Joshua,Hall,joshua.hall@example.com,4155550124,NorthStar,Boston,United States,01-09-2024,Inactive
+C0025,Karen,Allen,karen.allen@example.com,415-555-0125,DataWorks,Denver,United States,10-09-2024,Pending
+C0026,Nancy,Young,nancy.young@example.com,4155550126,PixelPoint,Miami,United States,20-09-2024,Active
+C0027,Betty,Hernandez,betty.h@example.com,4155550127,NextGen,Portland,United States,01-10-2024,Inactive
+C0028,Donna,King,donna.king@example.com,415-555-0128,Acme Inc,New York,United States,12-10-2024,Active
+C0029,George,Wright,george.wright@example.com,4155550129,BlueSky Ltd,Los Angeles,United States,20-10-2024,Active
+C0030,Kevin,Lopez,kevin.lopez@example.com,4155550130,TechNova,Chicago,United States,01-11-2024,Pending
+C0031,Edward,Hill,edward.hill@example.com,4155550131,GreenLeaf,Seattle,United States,15-11-2024,Active
+C0032,Ronald,Scott,ronald.scott@example.com,415-555-0132,CloudNine,Austin,United States,22-11-2024,Inactive
+C0033,Timothy,Green,timothy.green@example.com,4155550133,NorthStar,Boston,United States,01-12-2024,Active
+C0034,Jason,Adams,jason.adams@example.com,4155550134,DataWorks,Denver,United States,10-12-2024,Active
+C0035,Jeffrey,Baker,jeffrey.baker@example.com,4155550135,PixelPoint,Miami,United States,20-12-2024,Inactive
+C0036,Ryan,Nelson,ryan.nelson@example.com,4155550136,NextGen,Portland,United States,05-01-2025,Pending
+C0037,Jacob,Carter,jacob.carter@example.com,4155550137,Acme Inc,New York,United States,12-01-2025,Active
+C0038,Gary,Mitchell,gary.mitchell@example.com,4155550138,BlueSky Ltd,Los Angeles,United States,20-01-2025,Active
+C0039,Nicholas,Perez,nicholas.perez@example.com,4155550139,TechNova,Chicago,United States,01-02-2025,Active
+C0040,Eric,Roberts,eric.roberts@example.com,4155550140,GreenLeaf,Seattle,United States,15-02-2025,Inactive
+C0041,Stephen,Turner,stephen.turner@example.com,4155550141,CloudNine,Austin,United States,20-02-2025,Active
+C0042,Jonathan,Phillips,jonathan.phillips@example.com,4155550142,NorthStar,Boston,United States,01-03-2025,Pending
+C0043,Raymond,Campbell,raymond.campbell@example.com,4155550143,DataWorks,Denver,United States,10-03-2025,Active
+C0044,Laura,Parker,laura.parker@example.com,4155550144,PixelPoint,Miami,United States,20-03-2025,Inactive
+C0045,Sarah,Johnson,sarah.j@example.com,4155550102,BlueSky Ltd,Los Angeles,United States,01/22/2024,Active
+C0046,Christine,Evans,christine.evans@example.com,4155550146,NextGen,Portland,United States,01-04-2025,Active
+C0047,Rebecca,Edwards,rebecca.edwards@example.com,4155550147,Acme Inc,New York,United States,10-04-2025,Inactive
+C0048,Michelle,Collins,not-an-email,4155550148,BlueSky Ltd,Los Angeles,United States,20-04-2025,Active
+C0049,Carol,Stewart,carol.stewart@example.com,4155550149,TechNova,Chicago,United States,01-05-2025,Pending
+C0050,Michelle,Sanchez,michelle.sanchez@example.com,4155550150,GreenLeaf,Seattle,United States,10-05-2025,Active
+C0051,Thomas,Morris,thomas.morris@example.com,4155550151,CloudNine,Austin,United States,20-05-2025,Inactive
+C0052,Matthew,Rogers,matthew.rogers@example.com,4155550152,NorthStar,Boston,United States,01-06-2025,Active
+C0053,Anthony,Reed,anthony.reed@example.com,4155550153,DataWorks,Denver,United States,10-06-2025,Pending
+C0054,Mark,Cook,mark.cook@example.com,4155550154,PixelPoint,Miami,United States,20-06-2025,Active
+C0055,Donald,Morgan,donald.morgan@example.com,4155550155,NextGen,Portland,United States,01-07-2025,Inactive
+C0056,Paul,Bell,paul.bell@example.com,4155550156,Acme Inc,New York,United States,10-07-2025,Active
+C0057,Steven,Murphy,steven.murphy@example.com,4155550157,BlueSky Ltd,Los Angeles,United States,20-07-2025,Active
+C0058,Andrew,Bailey,andrew.bailey@example.com,4155550158,TechNova,Chicago,United States,01-08-2025,Pending
+C0059,Joshua,Rivera,joshua.rivera@example.com,4155550159,GreenLeaf,Seattle,United States,10-08-2025,Inactive
+C0060,Kevin,Cooper,kevin.cooper@example.com,4155550160,CloudNine,Austin,United States,20-08-2025,Active
+C0061,John,Peterson,john.peterson@example.com,4155550161,NorthStar,Boston,United States,01-09-2025,Active
+C0062,James,Bailey,james.bailey@example.com,4155550162,DataWorks,Denver,United States,10-09-2025,Inactive
+C0063,Robert,Gray,robert.gray@example.com,4155550163,PixelPoint,Miami,United States,20-09-2025,Active
+C0064,Daniel,Howard,daniel.howard@example.com,4155550164,NextGen,Portland,United States,01-10-2025,Pending
+C0065,Michael,Ward,michael.ward@example.com,4155550165,Acme Inc,New York,United States,10-10-2025,Active
+C0066,David,Cox,david.cox@example.com,4155550166,BlueSky Ltd,Los Angeles,United States,20-10-2025,Inactive
+C0067,Emily,Richardson,emily.richardson@example.com,4155550167,TechNova,Chicago,United States,01-11-2025,Active
+C0068,Jessica,Wood,jessica.wood@example.com,4155550168,GreenLeaf,Seattle,United States,10-11-2025,Active
+C0069,Amanda,Watson,amanda.watson@example.com,4155550169,CloudNine,Austin,United States,20-11-2025,Inactive
+C0070,Lisa,Brooks,lisa.brooks@example.com,4155550170,NorthStar,Boston,United States,01-12-2025,Pending
+C0071,Jennifer,Kelly,jennifer.kelly@example.com,4155550171,DataWorks,Denver,United States,10-12-2025,Active
+C0072,Elizabeth,Sanders,elizabeth.sanders@example.com,4155550172,PixelPoint,Miami,United States,20-12-2025,Inactive
+C0073,Patricia,Price,patricia.price@example.com,4155550173,NextGen,Portland,United States,05-01-2026,Active
+C0074,Barbara,Bennett,barbara.bennett@example.com,4155550174,Acme Inc,New York,United States,15-01-2026,Pending
+C0075,Laura,Wood,laura.wood@example.com,4155550175,BlueSky Ltd,Los Angeles,United States,25-01-2026,Active
+C0076,,Martin,,4155550176,TechNova,Chicago,United States,01-02-2026,Active
+C0077,Christopher,James,christopher.james@example.com,4155550177,GreenLeaf,Seattle,United States,10-02-2026,Inactive
+C0078,Matthew,Watson,matthew.watson@example.com,4155550178,CloudNine,Austin,United States,20-02-2026,Active
+C0079,George,Brooks,george.brooks@example.com,4155550179,NorthStar,Boston,United States,01-03-2026,Pending
+C0080,Timothy,Kelly,timothy.kelly@example.com,4155550180,DataWorks,Denver,United States,10-03-2026,Active
+C0081,Jason,Sanders,jason.sanders@example.com,4155550181,PixelPoint,Miami,United States,20-03-2026,Inactive
+C0082,Mark,Price,mark.price@example.com,4155550182,NextGen,Portland,United States,01-04-2026,Active
+C0083,Jeffrey,Bennett,jeffrey.bennett@example.com,4155550183,Acme Inc,New York,United States,10-04-2026,Pending
+C0084,Nancy,Gray,nancy.gray@example.com,4155550184,BlueSky Ltd,Los Angeles,United States,20-04-2026,Active
+C0085,Donna,Howard,donna.howard@example.com,4155550185,TechNova,Chicago,United States,01-05-2026,Inactive
+C0086,Karen,Cox,karen.cox@example.com,4155550186,GreenLeaf,Seattle,United States,10-05-2026,Active
+C0087,Betty,Richardson,betty.richardson@example.com,4155550187,CloudNine,Austin,United States,20-05-2026,Pending
+C0088,Jessica,Wood,jessica.wood@example.com,4155550168,GreenLeaf,Seattle,United States,10-11-2025,Active
+C0089,Thomas,Watson,thomas.watson@example.com,4155550189,NorthStar,Boston,United States,01-06-2026,Active
+C0090,Robert,Peterson,robert.peterson@example.com,4155550190,DataWorks,Denver,United States,10-06-2026,Inactive
+C0091,Eric,Bailey,eric.bailey@example.com,4155550191,PixelPoint,Miami,United States,20-06-2026,Active
+C0092,Carol,Murphy,carol.murphy@example.com,4155550192,NextGen,Portland,United States,01-07-2026,Pending
+C0093,Michael,Lee,michael.lee@example.com,4155550193,Acme Inc,New York,United States,10-07-2026,Active
+C0094,Sarah,Johnson,sarah.johnson@example.com,4155550194,BlueSky Ltd,Los Angeles,United States,20-07-2026,Active
+C0095,Andrew,Cooper,andrew.cooper@example.com,4155550195,TechNova,Chicago,United States,01-08-2026,Inactive
+C0096,Rebecca,Edwards,rebecca.edwards@example.com,4155550196,GreenLeaf,Seattle,United States,10-08-2026,Active
+C0097,Jonathan,Phillips,jonathan.phillips@example.com,4155550197,CloudNine,Austin,United States,20-08-2026,Pending
+C0098,Michelle,Collins,michelle.collins@example.com,4155550198,NorthStar,Boston,United States,01-09-2026,Active
+C0099,Stephen,Turner,stephen.turner@example.com,4155550199,DataWorks,Denver,United States,10-09-2026,Inactive
+C0100,Raymond,Campbell,raymond.campbell@example.com,4155550200,PixelPoint,Miami,United States,20-09-2026,Active
+C0101,Arjun,Sharma,arjun.sharma@example.com,-141675,Innovate Labs,Bengaluru,India,05-01-2024,Active
+C0102,Priya,Patel,priya.patel@example.com,9876543002,FutureTech,Mumbai,India,05-02-2024,Active
+C0103,Rahul,Verma,rahul.verma@example.com,+91 98765 43003,DigitalWorks,Delhi,India,15-02-2024,Active
+C0104,Ananya,Reddy,ananya.reddy@example.com,,Bright Solutions,Hyderabad,India,01-03-2024,Inactive
+C0105,Vikram,Iyer,vikram.iyer@example.com,98765-43005,Smart Systems,Chennai,India,20-03-2024,Pending
+C0106,Neha,Gupta,neha.gupta@example.com,-9876542915,CloudTech,Pune,India,01-04-2024,Active
+C0107,Amit,Kumar,amit.kumar@example.com,9876543007,NextGen,Jaipur,India,15-04-2024,Inactive
+C0108,Sneha,Mehta,sneha.mehta@example.com,98765 43008,Innovate Labs,Bengaluru,India,01-05-2024,Active
+C0109,Rohan,Shah,rohan.shah@example.com,9876543009,FutureTech,Mumbai,India,15-05-2024,Pending
+C0110,Divya,Nair,divya.nair@example.com,-141684,DigitalWorks,Delhi,India,01-06-2024,Active
+C0111,Karan,Malhotra,karan.malhotra@example.com,9876543011,Bright Solutions,Hyderabad,India,15-06-2024,Inactive
+C0112,Pooja,Desai,pooja.desai@example.com,9876543012,Smart Systems,Chennai,India,01-07-2024,Active
+C0113,Aditya,Rao,aditya.rao@example.com,9876543013,CloudTech,Pune,India,15-07-2024,Pending
+C0114,Meera,Joshi,meera.joshi@example.com,9876543014,NextGen,Jaipur,India,01-08-2024,Active
+C0115,Sanjay,Menon,sanjay.menon@example.com,9876543015,Innovate Labs,Bengaluru,India,15-08-2024,Inactive
+C0116,Ishita,Bose,ishita.bose@example.com,9876543016,FutureTech,Mumbai,India,01-09-2024,Active
+C0117,Manish,Chopra,manish.chopra@example.com,9876543017,DigitalWorks,Delhi,India,15-09-2024,Pending
+C0118,Ritu,Agarwal,ritu.agarwal@example.com,9876543018,Bright Solutions,Hyderabad,India,01-10-2024,Active
+C0119,Sameer,Khan,sameer.khan@example.com,9876543019,Smart Systems,Chennai,India,15-10-2024,Inactive
+C0120,Kavya,Rao,kavya.rao@example.com,9876543020,CloudTech,Pune,India,01-11-2024,Active
+C0121,Arjun,Sharma,arjun.sharma@example.com,-141675,Innovate Labs,Bengaluru,India,05-01-2024,Active
+C0122,Anil,Shetty,anil.shetty@example.com,9876543022,NextGen,Jaipur,India,15-11-2024,Pending
+C0123,Shreya,Mishra,shreya.mishra@example.com,9876543023,Innovate Labs,Bengaluru,India,01-12-2024,Active
+C0124,Raj,Kapoor,raj.kapoor@example.com,9876543024,FutureTech,Mumbai,India,15-12-2024,Inactive
+C0125,Nisha,Singh,nisha.singh@example.com,9876543025,DigitalWorks,Delhi,India,01-01-2025,Active
+C0126,Dev,Patil,dev.patil@example.com,9876543026,Bright Solutions,Hyderabad,India,15-01-2025,Pending
+C0127,,Kulkarni,missing@example.com,9876543027,Smart Systems,Chennai,India,01-02-2025,Active
+C0128,Harish,Naidu,harish.naidu@example.com,9876543028,CloudTech,Pune,India,15-02-2025,Inactive
+C0129,Ananya,Reddy,ananya.reddy@example.com,9876543029,Bright Solutions,Hyderabad,India,01-03-2024,Active
+C0130,Varun,Das,varun.das@example.com,9876543030,NextGen,Jaipur,India,01-03-2025,Active
+C0131,Leah,Wilson,leah.wilson@example.com,+44 7700 900031,Westbridge,London,United Kingdom,10-01-2024,Active
+C0132,Oliver,Martin,oliver.martin@example.com,7700900032,Northfield,Manchester,United Kingdom,10-02-2024,Active
+C0133,Emma,Clark,emma.clark@example.com,-907689,Silverline,Bristol,United Kingdom,10-03-2024,Inactive
+C0134,Noah,Lewis,noah.lewis@example.com,7700900034,Westbridge,London,United Kingdom,10-04-2024,Active
+C0135,Olivia,Walker,olivia.walker@example.com,7700900035,Northfield,Manchester,United Kingdom,10-05-2024,Pending
+C0136,Liam,Hall,liam.hall@example.com,+44 7700 900036,Silverline,Bristol,United Kingdom,10-06-2024,Active
+C0137,Sophia,Allen,sophia.allen@example.com,7700900037,Westbridge,London,United Kingdom,10-07-2024,Inactive
+C0138,Lucas,Young,lucas.young@example.com,7700900038,Northfield,Manchester,United Kingdom,10-08-2024,Active
+C0139,Amelia,King,amelia.king@example.com,+44 7700 900039,Silverline,Bristol,United Kingdom,10-09-2024,Pending
+C0140,Henry,Wright,henry.wright@example.com,7700900040,Westbridge,London,United Kingdom,10-10-2024,Active
+C0141,Isabella,Scott,isabella.scott@example.com,7700900041,Northfield,Manchester,United Kingdom,10-11-2024,Inactive
+C0142,James,Green,james.green@example.com,+44 7700 900042,Silverline,Bristol,United Kingdom,10-12-2024,Active
+C0143,Mia,Adams,mia.adams@example.com,7700900043,Westbridge,London,United Kingdom,10-01-2025,Pending
+C0144,Alexander,Baker,alexander.baker@example.com,7700900044,Northfield,Manchester,United Kingdom,10-02-2025,Active
+C0145,Charlotte,Nelson,charlotte.nelson@example.com,+44 7700 900045,Silverline,Bristol,United Kingdom,10-03-2025,Inactive
+C0146,Daniel,Carter,daniel.carter@example.com,7700900046,Westbridge,London,United Kingdom,10-04-2025,Active
+C0147,Grace,Mitchell,grace.mitchell@example.com,7700900047,Northfield,Manchester,United Kingdom,10-05-2025,Pending
+C0148,Jack,Perez,jack.perez@example.com,+44 7700 900048,Silverline,Bristol,United Kingdom,10-06-2025,Active
+C0149,Ella,Roberts,ella.roberts@example.com,7700900049,Westbridge,London,United Kingdom,10-07-2025,Inactive
+C0150,William,Turner,william.turner@example.com,7700900050,Northfield,Manchester,United Kingdom,10-08-2025,Active

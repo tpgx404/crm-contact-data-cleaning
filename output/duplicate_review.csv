@@ -1,0 +1,17 @@
+customer_id,first_name,last_name,email,phone,company,city,country,signup_date,status,phone_original,phone_digits,phone_digits_length,phone_quality,signup_date_original,signup_date_parsed
+C0104,Ananya,Reddy,ananya.reddy@example.com,,Bright Solutions,Hyderabad,India,01-03-2024,Inactive,,,,Missing,01-03-2024,2024-01-03
+C0129,Ananya,Reddy,ananya.reddy@example.com,9876543029,Bright Solutions,Hyderabad,India,01-03-2024,Active,9876543029,9876543029,10,Check Format,01-03-2024,2024-01-03
+C0101,Arjun,Sharma,arjun.sharma@example.com,-141675,Innovate Labs,Bengaluru,India,05-01-2024,Active,-141675,141675,6,Suspicious,05-01-2024,2024-05-01
+C0121,Arjun,Sharma,arjun.sharma@example.com,-141675,Innovate Labs,Bengaluru,India,05-01-2024,Active,-141675,141675,6,Suspicious,05-01-2024,2024-05-01
+C0068,Jessica,Wood,jessica.wood@example.com,4155550168,GreenLeaf,Seattle,United States,10-11-2025,Active,4155550168,4155550168,10,Check Format,10-11-2025,2025-10-11
+C0088,Jessica,Wood,jessica.wood@example.com,4155550168,GreenLeaf,Seattle,United States,10-11-2025,Active,4155550168,4155550168,10,Check Format,10-11-2025,2025-10-11
+C0042,Jonathan,Phillips,jonathan.phillips@example.com,4155550142,NorthStar,Boston,United States,01-03-2025,Pending,4155550142,4155550142,10,Check Format,01-03-2025,2025-01-03
+C0097,Jonathan,Phillips,jonathan.phillips@example.com,4155550197,CloudNine,Austin,United States,20-08-2026,Pending,4155550197,4155550197,10,Check Format,20-08-2026,2026-08-20
+C0043,Raymond,Campbell,raymond.campbell@example.com,4155550143,DataWorks,Denver,United States,10-03-2025,Active,4155550143,4155550143,10,Check Format,10-03-2025,2025-10-03
+C0100,Raymond,Campbell,raymond.campbell@example.com,4155550200,PixelPoint,Miami,United States,20-09-2026,Active,4155550200,4155550200,10,Check Format,20-09-2026,2026-09-20
+C0047,Rebecca,Edwards,rebecca.edwards@example.com,4155550147,Acme Inc,New York,United States,10-04-2025,Inactive,4155550147,4155550147,10,Check Format,10-04-2025,2025-10-04
+C0096,Rebecca,Edwards,rebecca.edwards@example.com,4155550196,GreenLeaf,Seattle,United States,10-08-2026,Active,4155550196,4155550196,10,Check Format,10-08-2026,2026-10-08
+C0002,Sarah,Johnson,sarah.j@example.com,4155550102,BlueSky Ltd,Los Angeles,United States,01/22/2024,Active,4155550102,4155550102,10,Check Format,01/22/2024,2024-01-22
+C0045,Sarah,Johnson,sarah.j@example.com,4155550102,BlueSky Ltd,Los Angeles,United States,01/22/2024,Active,4155550102,4155550102,10,Check Format,01/22/2024,2024-01-22
+C0041,Stephen,Turner,stephen.turner@example.com,4155550141,CloudNine,Austin,United States,20-02-2025,Active,4155550141,4155550141,10,Check Format,20-02-2025,2025-02-20
+C0099,Stephen,Turner,stephen.turner@example.com,4155550199,DataWorks,Denver,United States,10-09-2026,Inactive,4155550199,4155550199,10,Check Format,10-09-2026,2026-10-09
